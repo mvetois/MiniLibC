@@ -1,7 +1,7 @@
 # MiniLibC (ASM_minilibc_2019)
 MiniLibC - Epitech project tek2
 
-##Epitech automated tests
+## Epitech automated tests
 
 - strlen
 100%
